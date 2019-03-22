@@ -1,6 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import { Navbar, Footer, Main } from './components'
+import Main from './components'
+import Navbar from './components/navbar'
+import Footer from './components/footer'
 
 ReactDOM.render(
   <div>
