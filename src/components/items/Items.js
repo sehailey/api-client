@@ -1,6 +1,6 @@
 import React from 'react'
 import ItemList from './ItemList'
-import {Table, Row, Col} from 'react-bootstrap'
+import {Table} from 'react-bootstrap'
 
 const Items = props => {
   const { items } = props

@@ -30,6 +30,7 @@ module.exports = {
     historyApiFallback: true,
     allowedHosts: [
       'localhost',
+      'opsqtua3b5dpg6zy.onion',
     ],
     proxy: {
       '/api': 'http://localhost:1337',
